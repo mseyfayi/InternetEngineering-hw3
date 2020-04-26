@@ -1,0 +1,12 @@
+strong{
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+p{
+    font-size: 18px;
+    margin-bottom: .4rem;
+}
+
+.p-tags-right p{
+    text-align: right;
+}

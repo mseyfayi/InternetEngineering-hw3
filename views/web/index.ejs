@@ -1,5 +1,9 @@
-<%- include('../partial/header',{title:'Corona virus'}); -%>
+<%- include('../partial/header', {title:'Corona virus'}); -%>
 
-<h1><%=all.confirmed%></h1>
+<div class="d-flex justify-content-center align-items-center">
+    <%- include('globally', {all}); -%>
+
+
+</div>
 
 <%- include('../partial/footer'); -%>
