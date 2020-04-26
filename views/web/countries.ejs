@@ -1,0 +1,25 @@
+<table class="col-9 table table-bordered table-striped table-hover">
+    <thead>
+    <tr>
+        <th scope="col">Country</th>
+        <th scope="col">Province</th>
+        <th scope="col">Population</th>
+        <th scope="col">Confirmed Cases</th>
+        <th scope="col">Deaths</th>
+        <th scope="col">Recovered</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <% countries.forEach(country=>{ %>
+        <tr>
+            <td><%= country.name %></td>
+            <td><%= country.province %></td>
+            <td><%= country.population %></td>
+            <td><%= country.confirmed %></td>
+            <td><%= country.deaths %></td>
+            <td><%= country.recovered %></td>
+        </tr>
+    <% }) %>
+    </tbody>
+</table>

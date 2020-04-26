@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d236dbb7-6164-4f74-bc1d-31e4a5d35abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/web/globally.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/web/countries.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partial/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partial/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partial/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/web/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/web/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webService.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/webService.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +113,7 @@
       <workItem from="1587807650617" duration="450000" />
       <workItem from="1587925869733" duration="392000" />
       <workItem from="1587926274938" duration="402000" />
-      <workItem from="1587926823371" duration="9708000" />
+      <workItem from="1587926823371" duration="12747000" />
     </task>
     <task id="LOCAL-00001" summary="wip">
       <created>1587926211828</created>
@@ -180,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587935551101</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="globally.ejs added">
+      <created>1587936633310</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587936633310</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +207,8 @@
     <MESSAGE value="all" />
     <MESSAGE value="priceSeparator.js added" />
     <MESSAGE value="webService.js: numbers separated" />
-    <option name="LAST_COMMIT_MESSAGE" value="webService.js: numbers separated" />
+    <MESSAGE value="globally.ejs added" />
+    <option name="LAST_COMMIT_MESSAGE" value="globally.ejs added" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

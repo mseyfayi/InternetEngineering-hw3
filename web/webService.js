@@ -4,7 +4,7 @@ const priceSeparator = require('../helper').priceSeparator;
 const separateValues = data => ({
     confirmed: priceSeparator(data.confirmed),
     deaths: priceSeparator(data.deaths),
-    recovered: priceSeparator(data.recovered)
+    recovered: priceSeparator(data.recovered),
 });
 
 const fetchData = () => new Promise((resolve, reject) => {
@@ -15,7 +15,7 @@ const fetchData = () => new Promise((resolve, reject) => {
                 countries: response.locations.map(country => ({
                     id: country.id,
                     name: country.country,
-                    province: country.province && '-',
+                    province: country.province || '-',
                     population: priceSeparator(country.country_population),
                     ...separateValues(country.latest)
                 }))
