@@ -1,12 +1,12 @@
-body{
+body {
     background-color: rgba(240, 255, 225, 0.67);
 }
 
-#globally{
+#globally {
     background-color: rgba(240, 255, 225, 1);
 }
 
-.table-striped tbody tr:nth-of-type(odd){
+.table-striped tbody tr:nth-of-type(odd) {
     background-color: rgba(240, 255, 225, 1);
 }
 
@@ -30,14 +30,14 @@ th {
     background-color: rgba(180, 255, 171, 0.65);
 }
 
-tr:hover{
-    background-color: rgba(0,0,0,0.05)!important;
+tr:hover {
+    background-color: rgba(0, 0, 0, 0.05) !important;
 }
 
-.dth{
+.dth {
     color: #222;
 }
 
-.rec{
+.rec {
     color: #146023;
 }
