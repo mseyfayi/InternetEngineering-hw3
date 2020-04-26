@@ -1,11 +1,25 @@
+body{
+    background-color: rgba(240, 255, 225, 0.67);
+}
+
+#globally{
+    background-color: rgba(240, 255, 225, 1);
+}
+
+.table-striped tbody tr:nth-of-type(odd){
+    background-color: rgba(240, 255, 225, 1);
+}
+
 strong {
-    font-size: 20px;
+    font-size: 35px;
     margin-bottom: 1rem;
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: .4rem;
+    font-weight: bold;
+    color: #555;
 }
 
 .p-tags-right p {
@@ -13,5 +27,17 @@ p {
 }
 
 th {
-    background-color: #b4ffab;
+    background-color: rgba(180, 255, 171, 0.65);
+}
+
+tr:hover{
+    background-color: rgba(0,0,0,0.05)!important;
+}
+
+.dth{
+    color: #222;
+}
+
+.rec{
+    color: #146023;
 }
