@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d236dbb7-6164-4f74-bc1d-31e4a5d35abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger/createLogger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger/getLogger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/requestLogger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/responseLogger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partial/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partial/header.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/web/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/indexView/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/webController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/webData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/webRouates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/webService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webController.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/webController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webService.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/webService.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +108,7 @@
       <workItem from="1587807650617" duration="450000" />
       <workItem from="1587925869733" duration="392000" />
       <workItem from="1587926274938" duration="402000" />
-      <workItem from="1587926823371" duration="7879000" />
+      <workItem from="1587926823371" duration="8466000" />
     </task>
     <task id="LOCAL-00001" summary="wip">
       <created>1587926211828</created>
@@ -149,7 +131,35 @@
       <option name="project" value="LOCAL" />
       <updated>1587934296816</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="wip">
+      <created>1587934798752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587934798752</updated>
+    </task>
+    <task id="LOCAL-00005" summary="package.json">
+      <created>1587934821945</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587934821945</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all">
+      <created>1587934835759</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587934835759</updated>
+    </task>
+    <task id="LOCAL-00007" summary="priceSeparator.js added">
+      <created>1587934991629</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587934991629</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,8 +182,12 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="wip" />
     <MESSAGE value="bootstrap added" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap added" />
+    <MESSAGE value="wip" />
+    <MESSAGE value="package.json" />
+    <MESSAGE value="all" />
+    <MESSAGE value="priceSeparator.js added" />
+    <option name="LAST_COMMIT_MESSAGE" value="priceSeparator.js added" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
